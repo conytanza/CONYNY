@@ -1,2 +1,2 @@
-# CONYNY
+# CALCULADORA
 calculadora
